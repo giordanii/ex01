@@ -4,4 +4,3 @@ let ok = window.alert('Choose the operator');
 let list = window.document.getElementById('list')
 let operation = '';
 let result = '';
-
